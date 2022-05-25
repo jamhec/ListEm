@@ -1,6 +1,6 @@
 {
-"Clothing":["Shirts", "Pants", "Jackets", "Shoes"],
-"Furniture":["Chairs","Dressers","Tables"],
-"Electronics":["Consoles","TVs","Lamps"],
-"Misc":["Books","Toys"]
+"Clothing":{"Shirts", "Pants", "Jackets", "Shoes"},
+"Furniture":{"Chairs","Dressers","Tables"},
+"Electronics":{"Consoles","TVs","Lamps"},
+"Misc":{"Books","Toys"}
 }
