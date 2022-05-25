@@ -1,7 +1,7 @@
 [{
-"Clothing":"Shirts",
-"Furniture":"Chairs",
-"Electronics":"Consoles",
-"Misc":"Books"
+"Clothing":["Shirts","Pants","Shoes","Jackets"],
+"Furniture":["Chairs","Dressers","Lamps"],
+"Electronics":["Consoles","TVs"],
+"Misc":["Books","Toys"]
 }
 ]
