@@ -1,0 +1,14 @@
+[
+{
+"Name":"Item 1",
+"Description":"This is a great item for a gift",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},
+{
+"Name":"Item 2",
+"Description":"Open box",
+"Category":"Misc",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/broccoli.png"
+}
+]
