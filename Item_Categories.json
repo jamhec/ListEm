@@ -2,6 +2,7 @@
 "Clothing":"Shirts",
 "Furniture":"Chairs",
 "Electronics":"Consoles",
-"Misc":"Books"
+"Misc":"Books",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
 }
 ]
