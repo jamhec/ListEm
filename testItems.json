@@ -1,60 +1,81 @@
 [
 {
-"Name":"Item 1",
-"Description":"Blursh! Meshaloob! Blursh!",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+"productID":"50",
+"image":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png",
+"category":"Clothing",
+"name":"Item 1",
+"description":"Blursh! Meshaloob! Blursh!",
+"price":"14.99"
 },
 {
-"Name":"Item 2",
-"Description":"Open box",
-"Category":"Misc",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/broccoli.png"
+"productID":"51",
+"image":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/broccoli.png",
+"category":"Misc",
+"name":"Item 2",
+"description":"Open box",
+"price":"14.99"
 },
 {
-"Name":"Item 3",
-"Description":"This is a great item for a gift",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+"productID":"52",
+"image":"https://upload.wikimedia.org/wikipedia/commons/4/43/WLA_nyhistorical_1910_desk_lamp.jpg",
+"category":"Furniture",
+"name":"Item 3",
+"description":"This is a great item for a gift",
+"price":"14.99"
 },{
-"Name":"Item 4",
-"Description":"Uhh Shamoo Ralla Poo",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+"productID":"53",
+"image":"https://upload.wikimedia.org/wikipedia/commons/2/2b/Lowboy_%28PSF%29.png",
+"category":"Furniture",
+"name":"Item 4",
+"description":"Uhh Shamoo Ralla Poo",
+"price":"14.99"
 },{
-"Name":"Item 5",
-"Description":"Cuh Teekaloo",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 6",
-"Description":"Shoo Flee",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 7",
-"Description":"Depwa Spanewash Depla Blah",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 8",
-"Description":"Adequate",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 9",
-"Description":"Fleny Fleny",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 10",
-"Description":"Valuable antique",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
-},{
-"Name":"Item 11",
-"Description":"Benzi Chibna Looble Bazebni Gweb",
-"Category":"Clothing",
-"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+"productID":"54",
+"image":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png",
+"category":"Clothing",
+"name":"Item 5",
+"description":"Cuh Teekaloo",
+"price":"14.99"
+},{"productID":"55",
+"image":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Jeans.jpg",
+"category":"Clothing",
+"name":"Item 6",
+"description":"Shoo Flee",
+"price":"14.99"
 },
+{"productID":"56",
+"image":"https://upload.wikimedia.org/wikipedia/commons/7/71/A_pair_of_Blue_branded_black_loafers.JPG",
+"category":"Clothing",
+"name":"Item 7",
+"description":"Depwa Spanewash Depla Blah",
+"price":"14.99"
+},
+{"productID":"57",
+"image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/GameCube-Set.jpg",
+"category":"Electronics",
+"name":"Item 8",
+"description":"Adequate",
+"price":"14.99"
+},
+{"productID":"58",
+"image":"https://upload.wikimedia.org/wikipedia/commons/1/16/Trinitron_computer-monitor.jpg",
+"category":"Electronics",
+"name":"Item 9",
+"description":"Fleny Fleny",
+"price":"60.00"
+},
+{"productID":"59",
+"image":"https://upload.wikimedia.org/wikipedia/en/7/70/Furby_picture.jpg",
+"category":"Misc",
+"name":"Item 10",
+"description":"Valuable antique",
+"price":"107.45"
+},
+{"productID":"60",
+"image":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Sipping_Bird.jpg",
+"category":"Misc",
+"name":"Item 11",
+"description":"Benzi Chibna Looble Bazebni Gweb",
+"price":"10.00"
+}
 ]
