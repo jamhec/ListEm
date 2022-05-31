@@ -1,7 +1,7 @@
 [
 {
 "Name":"Item 1",
-"Description":"This is a great item for a gift",
+"Description":"Blursh! Meshaloob! Blursh!",
 "Category":"Clothing",
 "Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
 },
@@ -10,5 +10,51 @@
 "Description":"Open box",
 "Category":"Misc",
 "Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/broccoli.png"
-}
+},
+{
+"Name":"Item 3",
+"Description":"This is a great item for a gift",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 4",
+"Description":"Uhh Shamoo Ralla Poo",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 5",
+"Description":"Cuh Teekaloo",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 6",
+"Description":"Shoo Flee",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 7",
+"Description":"Depwa Spanewash Depla Blah",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 8",
+"Description":"Adequate",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 9",
+"Description":"Fleny Fleny",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 10",
+"Description":"Valuable antique",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},{
+"Name":"Item 11",
+"Description":"Benzi Chibna Looble Bazebni Gweb",
+"Category":"Clothing",
+"Picture":"https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png"
+},
 ]
