@@ -1,7 +1,7 @@
 {
 "posts":[
   {
-    "productID": "50",
+    "id": "50",
     "image": "https://cdn-images.farfetch-contents.com/18/01/80/88/18018088_39345507_1000.jpg",
     "category": "Clothing",
     "name": "Moshino",
@@ -9,7 +9,7 @@
     "price": "50.99"
   },
   {
-    "productID": "51",
+    "id": "51",
     "image": "https://cdn-images.farfetch-contents.com/17/57/29/85/17572985_39656219_1000.jpg",
     "category": "Misc",
     "name": "Palm Angels Phone Case",
@@ -17,7 +17,7 @@
     "price": "14.99"
   },
   {
-    "productID": "52",
+    "id": "52",
     "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/WLA_nyhistorical_1910_desk_lamp.jpg",
     "category": "Furniture",
     "name": "Tiffany Lamp",
@@ -25,7 +25,7 @@
     "price": "34.57"
   },
   {
-    "productID": "53",
+    "id": "53",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lowboy_%28PSF%29.png",
     "category": "Furniture",
     "name": "Classic Dresser",
@@ -33,7 +33,7 @@
     "price": "25.00"
   },
   {
-    "productID": "54",
+    "id": "54",
     "image": "https://raw.githubusercontent.com/jamhec/jamhec.github.io/main/graypixelshirt.png",
     "category": "Clothing",
     "name": "Gray Shirt",
@@ -41,7 +41,7 @@
     "price": "4.99"
   },
   {
-    "productID": "55",
+    "id": "55",
     "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jeans.jpg",
     "category": "Clothing",
     "name": "Jeans Pants",
@@ -49,7 +49,7 @@
     "price": "14.99"
   },
   {
-    "productID": "56",
+    "id": "56",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/A_pair_of_Blue_branded_black_loafers.JPG",
     "category": "Clothing",
     "name": "Loafers",
@@ -57,7 +57,7 @@
     "price": "14.99"
   },
   {
-    "productID": "57",
+    "id": "57",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/GameCube-Set.jpg",
     "category": "Electronics",
     "name": "Game Cube",
@@ -65,7 +65,7 @@
     "price": "30.44"
   },
   {
-    "productID": "58",
+    "id": "58",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Trinitron_computer-monitor.jpg",
     "category": "Electronics",
     "name": "Monitor",
@@ -73,7 +73,7 @@
     "price": "60.00"
   },
   {
-    "productID": "59",
+    "id": "59",
     "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Furby_picture.jpg",
     "category": "Misc",
     "name": "Furby",
@@ -81,7 +81,7 @@
     "price": "107.45"
   },
   {
-    "productID": "60",
+    "id": "60",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sipping_Bird.jpg",
     "category": "Misc",
     "name": "Bird Toy",
