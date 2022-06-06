@@ -5,7 +5,7 @@
     "category": "Clothing",
     "name": "Moshino",
     "description": "Logo Tape Shirt Contrasting against the piece's tonal black hue.",
-    "price": "50.99"
+    "price": 50.99
   },
   {
     "id": 51,
@@ -13,7 +13,7 @@
     "category": "Misc",
     "name": "Palm Angels Phone Case",
     "description": "This iPhone 12 Mini case from Palm Angels is detailed with a raised logo detail.",
-    "price": "14.99"
+    "price": 14.99
   },
   {
     "id": 52,
@@ -21,7 +21,7 @@
     "category": "Furniture",
     "name": "Tiffany Lamp",
     "description": "This is a great item for a gift",
-    "price": "34.57"
+    "price": 34.57
   },
   {
     "id": 53,
@@ -29,7 +29,7 @@
     "category": "Furniture",
     "name": "Classic Dresser",
     "description": "Used dresser in adequate condition.",
-    "price": "25.00"
+    "price": 25.00
   },
   {
     "id": 54,
@@ -37,7 +37,7 @@
     "category": "Clothing",
     "name": "Gray Shirt",
     "description": "A plain gray t-shirt, brand new",
-    "price": "4.99"
+    "price": 4.99
   },
   {
     "id": 55,
@@ -45,7 +45,7 @@
     "category": "Clothing",
     "name": "Jeans Pants",
     "description": "Men's jeans size 34, hardly worn",
-    "price": "14.99"
+    "price": 14.99
   },
   {
     "id": 56,
@@ -53,7 +53,7 @@
     "category": "Clothing",
     "name": "Loafers",
     "description": "Old loafers, says size 10 inside",
-    "price": "14.99"
+    "price": 14.99
   },
   {
     "id": 57,
@@ -61,7 +61,7 @@
     "category": "Electronics",
     "name": "Game Cube",
     "description": "Adequate, powers on. Comes with controller.",
-    "price": "30.44"
+    "price": 30.44
   },
   {
     "id": 58,
@@ -69,7 +69,7 @@
     "category": "Electronics",
     "name": "Monitor",
     "description": "CRT Monitor, for parts only",
-    "price": "60.00"
+    "price": 60.00
   },
   {
     "id": 59,
@@ -77,7 +77,7 @@
     "category": "Misc",
     "name": "Furby",
     "description": "Valuable antique",
-    "price": "107.45"
+    "price": 107.45
   },
   {
     "id": 60,
@@ -85,6 +85,6 @@
     "category": "Misc",
     "name": "Bird Toy",
     "description": "Sipping bird toy",
-    "price": "2.00"
+    "price": 2.00
   }
 ]
