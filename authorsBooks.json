@@ -1,0 +1,48 @@
+[
+  {
+    "authorName": "Stephen King",
+    "books": [
+      {
+        "title": "Pet Sematary",
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/StephenKingPetSematary.jpg/220px-StephenKingPetSematary.jpg",
+        "pages": 373,
+        "releaseDate": "November 14, 1983"
+      },
+      {
+        "title": "Carrie",
+        "cover_image": "https://images.squarespace-cdn.com/content/v1/5a83a7c529f187a4cab99625/1529030029654-WK2FE2NL5XT0CPRHI71F/unknown+1.jpg",
+        "pages": 172,
+        "releaseDate": "April 5, 1974"
+      },
+      {
+        "title": "The Shining",
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/4/4c/Shiningnovel.jpg",
+        "pages": 447,
+        "releaseDate": "January 28, 1977"
+      }
+    ]
+  },
+{
+    "authorName": "Agatha Christie",
+    "books": [
+      {
+        "title": "Murder on the Orient Express",
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/c/c0/Murder_on_the_Orient_Express_First_Edition_Cover_1934.jpg",
+        "pages": 256,
+        "releaseDate": "1 January 1934"
+      },
+      {
+        "title": "Death on the Nile",
+        "cover_image": "https://upload.wikimedia.org/wikipedia/en/9/96/Death_on_the_Nile_First_Edition_Cover_1937.jpg",
+        "pages": 288,
+        "releaseDate": "1 November 1937"
+      },
+      {
+        "title": "And Then There Were None",
+        "cover_image": "https://covers.openlibrary.org/b/id/9264568-L.jpg",
+        "pages": 272,
+        "releaseDate": "6 November 1939"
+      }
+    ]
+  }
+]
